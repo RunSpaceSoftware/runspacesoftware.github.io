@@ -12,11 +12,22 @@
     text-decoration: none;
     font-size: 17px;
   }
+
+  .topnav p {
+     float: right;
+     text-align: center;
+     color: #f2f2f2;
+     padding-right: 8px;
+     text-decoration: none;
+     font-size: 17px;
+     font-family: 'Times New Roman', Times, serif;
+  }
   
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: #ddd;
     color: black;
+    
   }
   
   /* Add a color to the active/current link */
@@ -27,4 +38,11 @@
 
 .body {
     background-color: black;
+}
+
+.body div {
+    color: #ddd;
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
 }
