@@ -46,3 +46,15 @@
     text-align: center;
     font-size: larger;
 }
+
+.sub {
+  border-style: dotted;
+  border-radius: 2px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.sub:hover {
+  background-color: aquamarine;
+  color: black;
+}
