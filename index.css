@@ -58,3 +58,10 @@
   background-color: aquamarine;
   color: black;
 }
+
+.about {
+  border-style: dotted;
+  border-radius: 2px;
+  padding: 10px;
+  margin: 20px;
+}
