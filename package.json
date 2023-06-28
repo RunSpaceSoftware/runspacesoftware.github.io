@@ -1,0 +1,7 @@
+{
+  "name": "runspacesoftware.github.io",
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
